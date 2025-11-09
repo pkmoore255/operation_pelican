@@ -1,10 +1,5 @@
 # Raspberry Pi
 
-Author 1: 
-
-Author 2: 
-
-
 ## Components Researched
 ### Raspberry Pi
 Model | Notes | Link
