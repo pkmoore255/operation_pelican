@@ -26,5 +26,7 @@ file1(changelater) | description
 ## References
 ### Inspiration
 - [https://github.com/littlespleen/littlespleen.github.io](https://github.com/SyrupMakes/Raspberry-Pi-Laptop)
-- 
+
+### eStores for Purchasing
+- https://www.raspberrypi.com/products/compute-module-4/?variant=raspberry-pi-cm4108016
 
