@@ -44,5 +44,6 @@ file1(changelater) | description
 - [https://github.com/littlespleen/littlespleen.github.io](https://github.com/SyrupMakes/Raspberry-Pi-Laptop)
 - https://www.raspberrypi.com/products/compute-module-4/?variant=raspberry-pi-cm4108016
 - https://www.reddit.com/r/Ubuntu/comments/1jdxrnu/ubuntu_on_raspberry_pi_500/
+- https://www.reddit.com/r/hardware/comments/1nr2p9q/raspberry_pi_500_puts_the_pi_16gb_of_ram_and_a/
 - https://www.youtube.com/watch?v=FOewqaDiynI (RPi 500 review)
 
