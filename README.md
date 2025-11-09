@@ -1,2 +1,11 @@
-# operation_pelican
-Building a laptop with raspberry pi
+# Raspberry Pi
+
+Author 1: 
+
+Author 2: 
+
+
+
+## Files
+
+
