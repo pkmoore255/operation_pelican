@@ -4,7 +4,7 @@
 ### Raspberry Pi
 Model | Notes | Link
 --- | --- | --- |
-RPi 500 | <ul><li>11.6 inch keyboard already attached</li><li>8GB RAM</li><li>Bluetooth</li></li><li>Ethernet</li><li>Heatsink</li><li>USB 2.0 and 3.0</li></ul> | [Data Sheet](https://datasheets.raspberrypi.com/pi500/raspberry-pi-500-product-brief.pdf)
+RPi 500 | <ul><li>11.6 inch keyboard already attached</li><li>8GB RAM</li><li>Bluetooth</li></li><li>Ethernet</li><li>Heatsink</li><li>USB 2.0 and 3.0</li></ul> | [Data Sheet](https://datasheets.raspberrypi.com/pi500/raspberry-pi-500-product-brief.pdf) [DigiKey Link](https://www.digikey.com/en/products/detail/raspberry-pi/SC1282/25862719?s=N4IgTCBcDa4GwBYAcBaAygYQIxiWFAcgCIgC6AvkA)
 RPi CM4 | <ul><li>Slightly lower cost</li><li>Similar to what I used in previous course</li></ul> | [Data Sheet](https://datasheets.raspberrypi.com/cm4/cm4-datasheet.pdf)
 
 ### LCD
