@@ -10,8 +10,8 @@ RPi CM4 | <ul><li>Slightly lower cost</li><li>Similar to what I used in previous
 ### LCD
 Model | Notes | Link
 --- | --- | --- |
-10.1inch Capacitive Touch Display for Raspberry Pi, 1280×800, IPS, DSI Interface | DSI connector | https://www.pishop.us/product/10-1inch-capacitive-touch-display-for-raspberry-pi-1280-800-ips-dsi-interface-grjw/
-10.1'' LCD module 1280*800 IPS Display Capacitive Touch Screen For Raspberry pi | Video Input Connector: Mini HDMI & VGA | https://www.ebay.com/itm/335507108112?itmmeta=01K9V0Z77BRS0E7SGS875XWR8J&hash=item4e1dc83110:g:PZYAAOSwgH1kevh2&itmprp=enc%3AAQAKAAAA4NHOg0D50eDiCdi%2FfP0r02ucz9Nrm8KQYmhRHDaClU13OOanSGFrjRXvjJL0KOsomBkSTEoMqd1ZVDWk3MexwCsgQ6%2BpffBpCkhrQSR3QXoyzKknWsSD5vfSITjbDXdWSvbiAxdsJRdU45XAzexo9EzJMUPlFKdzaeA%2Fky6p9lHJ%2F7wxcN7iPNZmWdixPDLl%2B1TpGDHfX7IFb2YaxAZsr04BXm%2BviBE6%2BYgrjKMiV%2Bt9Sgo%2B%2FeXhhlQS4euokOO9vgZ4Kffg1g%2BOAcDQpDmRmhOtF1OGg%2BxQaSmFDR7XRoMR%7Ctkp%3ABk9SR-rz_ODOZg
+10.1inch Capacitive Touch Display for Raspberry Pi, 1280×800, IPS, DSI Interface | DSI connector | [Ebay Link](https://www.pishop.us/product/10-1inch-capacitive-touch-display-for-raspberry-pi-1280-800-ips-dsi-interface-grjw/)
+10.1'' LCD module 1280*800 IPS Display Capacitive Touch Screen For Raspberry pi | Video Input Connector: Mini HDMI & VGA | [Ebay Link](https://www.ebay.com/itm/335507108112?itmmeta=01K9V0Z77BRS0E7SGS875XWR8J&hash=item4e1dc83110:g:PZYAAOSwgH1kevh2&itmprp=enc%3AAQAKAAAA4NHOg0D50eDiCdi%2FfP0r02ucz9Nrm8KQYmhRHDaClU13OOanSGFrjRXvjJL0KOsomBkSTEoMqd1ZVDWk3MexwCsgQ6%2BpffBpCkhrQSR3QXoyzKknWsSD5vfSITjbDXdWSvbiAxdsJRdU45XAzexo9EzJMUPlFKdzaeA%2Fky6p9lHJ%2F7wxcN7iPNZmWdixPDLl%2B1TpGDHfX7IFb2YaxAZsr04BXm%2BviBE6%2BYgrjKMiV%2Bt9Sgo%2B%2FeXhhlQS4euokOO9vgZ4Kffg1g%2BOAcDQpDmRmhOtF1OGg%2BxQaSmFDR7XRoMR%7Ctkp%3ABk9SR-rz_ODOZg)
 
 ## Components Used (Final)
 Hardware:
